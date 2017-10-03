@@ -220,6 +220,8 @@ INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grffile.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grffile.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/was/gensymb.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/physics/physics.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/physics/physics.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT Jonathan_Sun_MCB166_HW_2.aux
@@ -293,6 +295,14 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
+INPUT /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 2/Screen Shot 2017-10-03 at 5.27.43 AM.png
+INPUT /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 2/Screen Shot 2017-10-03 at 5.27.43 AM.png
+INPUT /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 2/Screen Shot 2017-10-03 at 5.27.43 AM.png
+INPUT /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 2/Screen Shot 2017-10-03 at 5.27.43 AM.png
+INPUT /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 2/Screen Shot 2017-10-03 at 5.59.34 AM.png
+INPUT /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 2/Screen Shot 2017-10-03 at 5.59.34 AM.png
+INPUT /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 2/Screen Shot 2017-10-03 at 5.59.34 AM.png
+INPUT /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 2/Screen Shot 2017-10-03 at 5.59.34 AM.png
 INPUT /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 2/Screen Shot 2017-10-02 at 2.51.29 AM.png
 INPUT /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 2/Screen Shot 2017-10-02 at 2.51.29 AM.png
 INPUT /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 2/Screen Shot 2017-10-02 at 2.51.29 AM.png

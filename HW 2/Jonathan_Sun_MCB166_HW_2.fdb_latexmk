@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1506986227 "Jonathan_Sun_MCB166_HW_2.tex" "Jonathan_Sun_MCB166_HW_2.pdf" "Jonathan_Sun_MCB166_HW_2" 1506986229
+["pdflatex"] 1507036237 "Jonathan_Sun_MCB166_HW_2.tex" "Jonathan_Sun_MCB166_HW_2.pdf" "Jonathan_Sun_MCB166_HW_2" 1507036298
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1480098696 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/tcrm0800.tfm" 1480098696 1536 05df9db6aeccc4eea94fec15c9024f79 ""
@@ -170,6 +170,7 @@
   "/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgffor.sty" 1480098837 348 8927fde343487e003b01a4c2ca34073b ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty" 1480098837 274 4cad6e665cc93ac2ac979039a94fa1e1 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty" 1480098837 325 2bcd023400636339210573e2b3ee298b ""
+  "/usr/local/texlive/2017/texmf-dist/tex/latex/physics/physics.sty" 1480098837 29610 a9597219b282d9c78b02393dcd7d4322 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/tikz-qtree/pgfsubpic.sty" 1480098841 54 f9439ec673a174422959417bbf935693 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/tikz-qtree/pgfsubpic.tex" 1480098841 8570 d1bab08986c0118f4c006d2f8c250422 ""
   "/usr/local/texlive/2017/texmf-dist/tex/latex/tikz-qtree/pgftree.sty" 1480098841 103 1ec4da228521932da66ce8de6a762d94 ""
@@ -187,12 +188,14 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "Jonathan_Sun_MCB166_HW_2.aux" 1506986229 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "Jonathan_Sun_MCB166_HW_2.out" 1506986228 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Jonathan_Sun_MCB166_HW_2.tex" 1506986224 7756 90e5f6c48641f8f2b7966c9655a1956e ""
+  "Jonathan_Sun_MCB166_HW_2.aux" 1507036240 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "Jonathan_Sun_MCB166_HW_2.out" 1507036238 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Jonathan_Sun_MCB166_HW_2.tex" 1507036297 21200 a70da90001041cb86e5e0d552b900494 ""
   "Screen Shot 2017-10-02 at 2.51.29 AM.png" 1506937916 216923 e89e69a4dcc16227d8977785ce3e410a ""
+  "Screen Shot 2017-10-03 at 5.27.43 AM.png" 1507033682 698332 c0c582dcaa988e50a9608c6c41679d61 ""
+  "Screen Shot 2017-10-03 at 5.59.34 AM.png" 1507035590 613903 3753cbb755711ef19f2e0efac0d77979 ""
   (generated)
-  "Jonathan_Sun_MCB166_HW_2.log"
-  "Jonathan_Sun_MCB166_HW_2.aux"
   "Jonathan_Sun_MCB166_HW_2.out"
+  "Jonathan_Sun_MCB166_HW_2.log"
   "Jonathan_Sun_MCB166_HW_2.pdf"
+  "Jonathan_Sun_MCB166_HW_2.aux"
