@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  8 OCT 2017 06:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  10 OCT 2017 11:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2396,85 +2396,174 @@ Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
 rks/Midterm/Screen Shot 2017-10-08 at 1.05.55 AM.png used on input line 44.
 (pdftex.def)             Requested size: 352.31625pt x 353.85219pt.
  [2 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen S
-hot 2017-10-08 at 1.05.55 AM.png>]
-Overfull \hbox (9.41908pt too wide) in paragraph at lines 74--76
-\OT1/cmr/m/n/10.95 Therefore, the flux through the chan-nel would be ap-prox-i-
-mately $2\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 2935584 \OMS/cmsy/m/n/10.95 ^^
-B \OT1/cmr/m/n/10.95 10[][]$. 
- []
-
-
-Overfull \hbox (34.41704pt too wide) in paragraph at lines 106--108
+hot 2017-10-08 at 1.05.55 AM.png>] [3]
+Overfull \hbox (34.41704pt too wide) in paragraph at lines 123--125
 \OT1/cmr/m/n/10.95 To con-vert this into Amps, we have to mul-ti-ply this by Fa
 ra-day's Con-stant $[]$: 
  []
 
-[3] [4]
+[4] [5] [6]
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen Shot 
-2017-10-08 at 2.21.48 AM.png, id=45, 345.29pt x 312.16624pt>
+2017-10-08 at 2.21.48 AM.png, id=53, 345.29pt x 312.16624pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
 Shot 2017-10-08 at 2.21.48 AM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen S
 hot 2017-10-08 at 2.21.48 AM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/Midterm/Screen Shot 2017-10-08 at 2.21.48 AM.png used on input line 169.
+rks/Midterm/Screen Shot 2017-10-08 at 2.21.48 AM.png used on input line 186.
 (pdftex.def)             Requested size: 352.31625pt x 318.52443pt.
- [5 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen S
-hot 2017-10-08 at 2.21.48 AM.png>] [6]
-[7] [8] [9]
+ [7 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen S
+hot 2017-10-08 at 2.21.48 AM.png>] [8]
+[9] [10] [11] [12] [13] [14] [15]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [10]
+ [16] [17] [18]
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen Shot 
-2017-10-08 at 6.01.46 AM.png, id=83, 485.815pt x 179.67125pt>
+2017-10-08 at 6.01.46 AM.png, id=118, 485.815pt x 179.67125pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
 Shot 2017-10-08 at 6.01.46 AM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen S
 hot 2017-10-08 at 6.01.46 AM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/Midterm/Screen Shot 2017-10-08 at 6.01.46 AM.png used on input line 474.
+rks/Midterm/Screen Shot 2017-10-08 at 6.01.46 AM.png used on input line 564.
 (pdftex.def)             Requested size: 352.31625pt x 130.29805pt.
- [11 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
-Shot 2017-10-08 at 6.01.46 AM.png>] [12]
-[13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 780.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 780.
- (./Jonathan_Sun_MCB166_Midterm.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 780.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 780.
+
+</Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen Shot 
+2017-10-10 at 5.14.12 AM.png, id=119, 789.95125pt x 478.78876pt>
+File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-10 at 5.14.12 AM.png Graphic file (type png)
+
+<use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen S
+hot 2017-10-10 at 5.14.12 AM.png>
+Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
+rks/Midterm/Screen Shot 2017-10-10 at 5.14.12 AM.png used on input line 570.
+(pdftex.def)             Requested size: 352.31625pt x 213.53885pt.
+ [19 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-08 at 6.01.46 AM.png> </Users/jonathansun5/Documents/Fall 2017/MCB
+ 166/Homeworks/Midterm/Screen Shot 2017-10-10 at 5.14.12 AM.png>]
+</Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen Shot 
+2017-10-10 at 6.19.25 AM.png, id=129, 1001.7425pt x 419.5675pt>
+File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-10 at 6.19.25 AM.png Graphic file (type png)
+
+<use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen S
+hot 2017-10-10 at 6.19.25 AM.png>
+Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
+rks/Midterm/Screen Shot 2017-10-10 at 6.19.25 AM.png used on input line 580.
+(pdftex.def)             Requested size: 352.31625pt x 147.56145pt.
+ [20 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-10 at 6.19.25 AM.png>] [21]
+[22]
+</Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen Shot 
+2017-10-10 at 10.23.32 AM.png, id=146, 714.67pt x 447.6725pt>
+File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-10 at 10.23.32 AM.png Graphic file (type png)
+
+<use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen S
+hot 2017-10-10 at 10.23.32 AM.png>
+Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
+rks/Midterm/Screen Shot 2017-10-10 at 10.23.32 AM.png used on input line 612.
+(pdftex.def)             Requested size: 352.31625pt x 220.69347pt.
+
+</Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen Shot 
+2017-10-10 at 10.41.02 AM.png, id=147, 550.055pt x 500.87125pt>
+File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-10 at 10.41.02 AM.png Graphic file (type png)
+
+<use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen S
+hot 2017-10-10 at 10.41.02 AM.png>
+Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
+rks/Midterm/Screen Shot 2017-10-10 at 10.41.02 AM.png used on input line 613.
+(pdftex.def)             Requested size: 234.8775pt x 213.87247pt.
+ [23 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-10 at 10.23.32 AM.png> </Users/jonathansun5/Documents/Fall 2017/MC
+B 166/Homeworks/Midterm/Screen Shot 2017-10-10 at 10.41.02 AM.png>]
+</Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen Shot 
+2017-10-10 at 10.51.13 AM.png, id=156, 670.505pt x 496.85625pt>
+File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-10 at 10.51.13 AM.png Graphic file (type png)
+
+<use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen S
+hot 2017-10-10 at 10.51.13 AM.png>
+Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
+rks/Midterm/Screen Shot 2017-10-10 at 10.51.13 AM.png used on input line 627.
+(pdftex.def)             Requested size: 234.8775pt x 174.04633pt.
+ [24 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-10 at 10.51.13 AM.png>]
+File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-10 at 5.14.12 AM.png Graphic file (type png)
+
+<use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen S
+hot 2017-10-10 at 5.14.12 AM.png>
+Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
+rks/Midterm/Screen Shot 2017-10-10 at 5.14.12 AM.png used on input line 636.
+(pdftex.def)             Requested size: 352.31625pt x 213.53885pt.
+ [25] [26] [27]
+</Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen Shot 
+2017-10-10 at 8.07.09 AM.png, id=185, 791.95876pt x 476.78125pt>
+File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-10 at 8.07.09 AM.png Graphic file (type png)
+
+<use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen S
+hot 2017-10-10 at 8.07.09 AM.png>
+Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
+rks/Midterm/Screen Shot 2017-10-10 at 8.07.09 AM.png used on input line 735.
+(pdftex.def)             Requested size: 352.31625pt x 212.10515pt.
+ [28 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-10 at 8.07.09 AM.png>]
+</Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen Shot 
+2017-10-10 at 9.12.56 AM.png, id=192, 1003.75pt x 276.03125pt>
+File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-10 at 9.12.56 AM.png Graphic file (type png)
+
+<use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen S
+hot 2017-10-10 at 9.12.56 AM.png>
+Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
+rks/Midterm/Screen Shot 2017-10-10 at 9.12.56 AM.png used on input line 764.
+(pdftex.def)             Requested size: 352.31625pt x 96.88615pt.
+ [29 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/Midterm/Screen 
+Shot 2017-10-10 at 9.12.56 AM.png>] [30]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 777.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 777.
+
+(./Jonathan_Sun_MCB166_Midterm.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 777.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 777.
 Package rerunfilecheck Info: File `Jonathan_Sun_MCB166_Midterm.out' has not cha
 nged.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 780.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 777.
  ) 
 Here is how much of TeX's memory you used:
- 32045 strings out of 492995
- 631946 string characters out of 6132704
- 690871 words of memory out of 5000000
- 35092 multiletter control sequences out of 15000+600000
+ 32104 strings out of 492995
+ 635493 string characters out of 6132704
+ 691638 words of memory out of 5000000
+ 35134 multiletter control sequences out of 15000+600000
  19783 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,19n,72p,10713b,1335s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,19n,72p,11479b,1317s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
-/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loc
-al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/
-texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/tex
-live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texl
-ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
-ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
-/2017/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on Jonathan_Sun_MCB166_Midterm.pdf (13 pages, 819385 bytes).
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/201
+7/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on Jonathan_Sun_MCB166_Midterm.pdf (30 pages, 3583714 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 136 compressed objects within 2 object streams
- 50 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 266 PDF objects out of 1000 (max. 8388607)
+ 198 compressed objects within 2 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 63 words of extra memory for PDF output out of 10000 (max. 10000000)
 
