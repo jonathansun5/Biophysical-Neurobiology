@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1508033782 "Jonathan_Sun_MCB166_HW_3.tex" "Jonathan_Sun_MCB166_HW_3.pdf" "Jonathan_Sun_MCB166_HW_3" 1508033784
+["pdflatex"] 1508203448 "Jonathan_Sun_MCB166_HW_3.tex" "Jonathan_Sun_MCB166_HW_3.pdf" "Jonathan_Sun_MCB166_HW_3" 1508203450
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1480098696 1536 b3387106d9afecbfe14bde2de6eadf47 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1480098696 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
@@ -48,6 +48,8 @@
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1480098701 768 1321e9409b4137d6fb428ac9dc956269 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm" 1480098701 772 9a936b7f5e2ff0557fce0f62822f0bbf ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm" 1480098701 768 d7b9a2629a0c353102ad947dc9221d49 ""
+  "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1480098733 34811 78b52f49e893bcba91bd7581cdc144c0 ""
+  "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1480098733 32166 b0c356b15f19587482a9217ce1d8fa67 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1480098733 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1480098733 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1480098733 35752 024fb6c41858982481f6968b5fc26508 ""
@@ -214,15 +216,16 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "Jonathan_Sun_MCB166_HW_3.aux" 1508033784 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "Jonathan_Sun_MCB166_HW_3.out" 1508033783 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "Jonathan_Sun_MCB166_HW_3.tex" 1508033782 4979 792946d95de65a90aaa8e3da547b05fe ""
+  "Jonathan_Sun_MCB166_HW_3.aux" 1508203450 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "Jonathan_Sun_MCB166_HW_3.out" 1508203449 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "Jonathan_Sun_MCB166_HW_3.tex" 1508203447 9221 5d5b714cc7d9398b45ab341bcd98eaf5 ""
   "Screen Shot 2017-10-14 at 6.38.44 PM.png" 1508031543 77487 1a35fe89a7658fddb11d54441bd43d85 ""
   "Screen Shot 2017-10-14 at 6.40.12 PM.png" 1508031617 78611 5bc0d0c9a1e2352cbeccbf2127643476 ""
   "Screen Shot 2017-10-14 at 7.07.44 PM.png" 1508033274 83848 c49338bccbe2a2875b120b1c88cd60c8 ""
   "Screen Shot 2017-10-14 at 7.10.16 PM.png" 1508033438 116164 fededac029f6740b177fc432593540a3 ""
+  "Screen Shot 2017-10-16 at 6.22.55 PM.png" 1508203387 360555 a4ed00f8dfb17de3b1dbf4d0316e1c80 ""
   (generated)
-  "Jonathan_Sun_MCB166_HW_3.aux"
-  "Jonathan_Sun_MCB166_HW_3.pdf"
   "Jonathan_Sun_MCB166_HW_3.out"
   "Jonathan_Sun_MCB166_HW_3.log"
+  "Jonathan_Sun_MCB166_HW_3.pdf"
+  "Jonathan_Sun_MCB166_HW_3.aux"

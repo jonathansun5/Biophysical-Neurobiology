@@ -2,7 +2,7 @@
 
 \documentclass[11pt]{article}
 \usepackage{amsmath,textcomp,amssymb,graphicx,enumerate,hyperref,enumitem,mathtools,tikz-qtree,listings,chemformula,bm,graphicx,grffile,gensymb,physics,amssymb,datetime,siunitx}
-\graphicspath{{/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 6.38.44 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 6.40.12 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 7.07.44 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 7.10.16 PM.png}}
+\graphicspath{{/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 6.38.44 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 6.40.12 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 7.07.44 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 7.10.16 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-16 at 6.22.55 PM.png}}
 
 \makeatletter
 \newcommand{\leqnos}{\tagsleft@true\let\veqno\@@leqno}
@@ -16,9 +16,9 @@
 \def\Session{Fall 2017}
 
 
-\title{MCB166 --- \Session --- \Homework}
+\title{MCB166 --- \Session --- Problem Set \Homework}
 \author{\Name, SID \SID}
-\markboth{MCB166 --- \Session --- \Homework --- \Name}{MCB166 --- \Session --- \Homework --- \Name}
+\markboth{MCB166 --- \Session --- Problem Set \Homework --- \Name}{MCB166 --- \Session --- Problem Set \Homework --- \Name}
 \pagestyle{myheadings}
 \newdate{date}{17}{10}{2017}
 \date{\displaydate{date}}
@@ -56,65 +56,53 @@ $P_{\ch{K}} = P_{\ch{Ca}}$
 \item
 $P_{\ch{K}} < P_{\ch{Ca}}$
 \end{enumerate}
-
-
-
-
+\vspace*{1\baselineskip}
+The correct answer is \textbf{i. $P_{\ch{K}} > P_{\ch{Ca}}$}. This is because the slope for the resting potential in the $V_m$ vs. $[\ch{K+}]_{\text{out}}$ graph is much greater than the slope for the resting potential in the $V_m$ vs. $[\ch{Ca^{2+}}]_{\text{out}}$ graph even though they both started at around $V_m = -30 \text{mV}$. Therefore, the $V_m$ of the resting potential as $[\ch{K+}]_{\text{out}}$ increses is much higher than the $V_m$ of the resting potentil as $[\ch{Ca^{2+}}]_{\text{out}}$. This means that the resting membrane potential depends more on $[\ch{K+}]_{\text{out}}$ than $[\ch{Ca^{2+}}]_{\text{out}}$.
+\\
 
 
 
 \item
 Which is true during the peak of the AP? Explain concisely.
-
-
-
-
-
-
-
-
-
-\item
-Compared to the ionic concentrations of ``typical pond water,'' is $\ch{K+}_{\text{in}}$ greater than, equal to, or less that $\ch{K+}_{\text{out}}$? Explain.
-
-
-
-
-
-
-
+\vspace*{1\baselineskip}
+\\
+During the peak of the action potential, $P_{\ch{K}} < P_{\ch{Ca}}$ because the $V_m$ for $[\ch{Ca^{2+}}]_{\text{out}}$ increases a lot more than the $V_m$ for $[\ch{K+}]_{\text{out}}$, which means that $P_{\ch{Ca}}$ is influenced a lot more than $P_{\ch{K}}$. This means that the action potential depends more on $[\ch{Ca^{2+}}]_{\text{out}}$ than $[\ch{K+}]_{\text{out}}$.
+\\
 
 
 
 \item
-Compare also $\ch{Ca^{2+}}_{\text{in}}$ with $\ch{Ca^{2+}}_{\text{out}}$.
+Compared to the ionic concentrations of ``typical pond water,'' is $[\ch{K+}]_{\text{in}}$ greater than, equal to, or less that $[\ch{K+}]_{\text{out}}$? Explain.
+\vspace*{1\baselineskip}
+\\
+Compared to the ionic concentrations of ``typical pond water,'' $[\ch{K+}]_{\text{in}} > [\ch{K+}]_{\text{out}}$. This is because in part (a) we have determined that at the resting potential, $P_{\ch{K}} > P_{\ch{Ca}}$, which means that the resting potential depends more on $[\ch{K+}]_{\text{out}}$ than $[\ch{Ca^{2+}}]_{\text{out}}$. Therefore, we will disregard $[\ch{Ca^{2+}}]_{\text{out}}$ from our calculations. Since $V_{\text{rest}} \approx -30 \text{mV}$ and this is close to $E_{\ch{K}}$, I know that I should get a negative number for $E_{\ch{K}}$. Calculating for $E_{\ch{K}}$ we get:
+\begin{align*}
+V_{\text{rest}} \approx E_{\ch{K}} = \frac{RT} {zF} \ln{\frac{P_{\ch{K}}[\ch{K+}]_{\text{out}}} {P_{\ch{K}}[\ch{K+}]_{\text{in}}}} \approx -30 \text{mV}
+\end{align*}
+Since the only way for $\frac{RT} {zF} \ln{\frac{P_{\ch{K}}[\ch{K+}]_{\text{out}}} {P_{\ch{K}}[\ch{K+}]_{\text{in}}}}$ to be negative is for the numerator of the natural log to be smaller than the denominator of the natural log, this means that $[\ch{K+}]_{\text{in}} > [\ch{K+}]_{\text{out}}$.
+\\
 
 
 
-
-
-
-
-
+\item
+Compare also $[\ch{Ca^{2+}}]_{\text{in}}$ with $[\ch{Ca^{2+}}]_{\text{out}}$.
+\vspace*{1\baselineskip}
+\\
+Compared to the ionic concentrations of ``typical pond water,'' $[\ch{Ca^{2+}}]_{\text{in}} < [\ch{Ca^{2+}}]_{\text{out}}$. This is because in part (b) we have determined that at the action potential, $P_{\ch{K}} < P_{\ch{Ca}}$, which means that the action potential depends more on $[\ch{Ca^{2+}}]_{\text{out}}$ than $[\ch{K+}]_{\text{out}}$. Therefore, we will disregard $[\ch{K+}]_{\text{out}}$ from our calculations. Since $V_{\text{AP}} \approx +15 \text{mV}$ and this is close to $E_{\ch{K}}$, I know that I should get a negative number for $E_{\ch{K}}$. Calculating for $E_{\ch{Ca}}$ we get:
+\begin{align*}
+V_{\text{AP}} \approx E_{\ch{Ca}} = \frac{RT} {zF} \ln{\frac{P_{\ch{Ca}}[\ch{Ca^{2+}}]_{\text{out}}} {P_{\ch{Ca}}[\ch{Ca^{2+}}]_{\text{in}}}} \approx +15 \text{mV}
+\end{align*}
+Since the only way for $\frac{RT} {zF} \ln{\frac{P_{\ch{Ca}}[\ch{Ca^{2+}}]_{\text{out}}} {P_{\ch{Ca}}[\ch{Ca^{2+}}]_{\text{in}}}}$ to be positive is for the numerator of the natural log to be greater than the denominator of the natural log, this means that $[\ch{Ca^{2+}}]_{\text{in}} < [\ch{Ca^{2+}}]_{\text{out}}$.
+\\
 
 
 
 \item
 When the posterior end of the organism is mechanically tapped, the membrane transiently hyperpolarizes. What permeability change(s) might be responsible? Explain.
-
-
-
-
-
-
-
-
-
-
-
+\vspace*{1\baselineskip}
+\\
+When the membrane transiently hyperpolarizes, this may be caused by the increase in $P_{\ch{K}}$. This is because at resting potential, we found that $P_{\ch{K}} > P_{\ch{Ca}}$ and so the increase in $P_{\ch{K}}$ would have more effect than the decrease in $P_{\ch{Ca}}$ for hyperpolarization.
 \end{enumerate}
-
-
 
 
 
@@ -123,11 +111,18 @@ When the posterior end of the organism is mechanically tapped, the membrane tran
 \begin{enumerate}[label=(\alph*)]
 \item
 Briefly state the assumptions for the constant field model.
+\vspace*{1\baselineskip}
+\\
+The constant field model assumes that ion movement within the membrane obeys the Nernst-Planck equation, ions move across the membrane independently without interacting with each other, and the electric field in the membrane is constant (the electric potential drops linearly across the membrane).
+\\
 
 
 
 \item
 Sketch approximately the \textit{I-V} relations predicted by the constant field model for various ratios of intracellular and extracellular ion concentrations, i.e., when $\frac{[\ch{C}]_{\text{in}}} {[\ch{C}]_{\text{out}}} = 0\text{, } 0.1\text{, } 1\text{, } 30\text{, or } \infty$.
+\begin{center}
+\includegraphics[width=0.75\textwidth]{/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-16 at 6.22.55 PM.png}
+\end{center}
 
 
 
