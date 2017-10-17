@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  16 OCT 2017 18:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  17 OCT 2017 11:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2453,54 +2453,80 @@ rks/HW 3/Screen Shot 2017-10-14 at 7.07.44 PM.png used on input line 132.
 (pdftex.def)             Requested size: 352.31625pt x 209.10068pt.
  [4 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot
  2017-10-16 at 6.22.55 PM.png> </Users/jonathansun5/Documents/Fall 2017/MCB 166
-/Homeworks/HW 3/Screen Shot 2017-10-14 at 7.07.44 PM.png>]
+/Homeworks/HW 3/Screen Shot 2017-10-14 at 7.07.44 PM.png>] [5]
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 201
-7-10-14 at 7.10.16 PM.png, id=58, 470.75874pt x 235.88126pt>
+7-10-14 at 7.10.16 PM.png, id=62, 470.75874pt x 235.88126pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Sho
 t 2017-10-14 at 7.10.16 PM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot
  2017-10-14 at 7.10.16 PM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 3/Screen Shot 2017-10-14 at 7.10.16 PM.png used on input line 155.
+rks/HW 3/Screen Shot 2017-10-14 at 7.10.16 PM.png used on input line 161.
 (pdftex.def)             Requested size: 352.31625pt x 176.53618pt.
- [5 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot
- 2017-10-14 at 7.10.16 PM.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
 
-(./Jonathan_Sun_MCB166_HW_3.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
+</Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 201
+7-10-17 at 11.12.13 AM.png, id=63, 423.5825pt x 494.84875pt>
+File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Sho
+t 2017-10-17 at 11.12.13 AM.png Graphic file (type png)
+
+<use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot
+ 2017-10-17 at 11.12.13 AM.png>
+Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
+rks/HW 3/Screen Shot 2017-10-17 at 11.12.13 AM.png used on input line 168.
+(pdftex.def)             Requested size: 352.31625pt x 411.6078pt.
+ [6 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot
+ 2017-10-14 at 7.10.16 PM.png>]
+</Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 201
+7-10-17 at 11.12.23 AM.png, id=71, 550.055pt x 497.86pt>
+File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Sho
+t 2017-10-17 at 11.12.23 AM.png Graphic file (type png)
+
+<use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot
+ 2017-10-17 at 11.12.23 AM.png>
+Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
+rks/HW 3/Screen Shot 2017-10-17 at 11.12.23 AM.png used on input line 187.
+(pdftex.def)             Requested size: 352.31625pt x 318.89519pt.
+ [7 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot
+ 2017-10-17 at 11.12.13 AM.png>] [8 </Users/jonathansun5/Documents/Fall 2017/MC
+B 166/Homeworks/HW 3/Screen Shot 2017-10-17 at 11.12.23 AM.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 195.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 195.
+ (./Jonathan_Sun_MCB166_HW_3.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 195.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 195.
 Package rerunfilecheck Info: File `Jonathan_Sun_MCB166_HW_3.out' has not change
 d.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 195.
  ) 
 Here is how much of TeX's memory you used:
- 32029 strings out of 492995
- 632612 string characters out of 6132704
- 690090 words of memory out of 5000000
- 35103 multiletter control sequences out of 15000+600000
+ 32044 strings out of 492995
+ 633590 string characters out of 6132704
+ 690304 words of memory out of 5000000
+ 35115 multiletter control sequences out of 15000+600000
  20129 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,18n,72p,10913b,1036s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,18n,72p,11127b,1102s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
-r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
-local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loca
-l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/t
-exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
-ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texli
-ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
-e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Jonathan_Sun_MCB166_HW_3.pdf (5 pages, 706729 bytes).
+/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></u
+sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
+ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/201
+7/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Jonathan_Sun_MCB166_HW_3.pdf (8 pages, 1151479 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 143 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 48 words of extra memory for PDF output out of 10000 (max. 10000000)
 

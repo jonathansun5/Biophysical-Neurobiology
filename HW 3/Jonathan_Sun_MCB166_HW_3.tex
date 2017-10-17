@@ -2,7 +2,7 @@
 
 \documentclass[11pt]{article}
 \usepackage{amsmath,textcomp,amssymb,graphicx,enumerate,hyperref,enumitem,mathtools,tikz-qtree,listings,chemformula,bm,graphicx,grffile,gensymb,physics,amssymb,datetime,siunitx}
-\graphicspath{{/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 6.38.44 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 6.40.12 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 7.07.44 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 7.10.16 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-16 at 6.22.55 PM.png}}
+\graphicspath{{/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 6.38.44 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 6.40.12 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 7.07.44 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 7.10.16 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-16 at 6.22.55 PM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-17 at 11.12.13 AM.png} {/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-17 at 11.12.23 AM.png}}
 
 \makeatletter
 \newcommand{\leqnos}{\tagsleft@true\let\veqno\@@leqno}
@@ -131,20 +131,26 @@ Using the data provided in the figure below, calculate the ratio of $P_{\ch{Na}}
 \begin{center}
 \includegraphics[width=0.75\textwidth]{/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-14 at 7.07.44 PM.png}
 \end{center}
-
-
-
+Using the data, I will guesstimate that $V_m = -68 \text{mV}$ when $[\ch{K+}]_{\text{out}} = 5 \text{mM}$. From this, I can solve for $\frac{P_{\ch{Na}}} {P_{\ch{K}}}$.
+\begin{align*}
+V_m = \frac{RT} {F} \ln{\frac{P_{\ch{K}}[\ch{K+}]_{\text{out}} + P_{\ch{Na}}[\ch{Na+}]_{\text{out}} + P_{\ch{Cl}}[\ch{Cl-}]_{\text{in}}} {P_{\ch{K}}[\ch{K+}]_{\text{in}} + P_{\ch{Na}}[\ch{Na+}]_{\text{in}} + P_{\ch{Cl}}[\ch{Cl-}]_{\text{out}}}}
+\end{align*}
+Since $P_{\ch{Cl}} = 0$:
+\begin{align*}
+V_m = \frac{RT} {F} \ln{\frac{P_{\ch{K}}[\ch{K+}]_{\text{out}} + P_{\ch{Na}}[\ch{Na+}]_{\text{out}}} {P_{\ch{K}}[\ch{K+}]_{\text{in}} + P_{\ch{Na}}[\ch{Na+}]_{\text{in}}}}
+\end{align*}
+\begin{align*}
+V_m = \frac{RT} {F} \ln{\frac{[\ch{K+}]_{\text{out}} + \frac{P_{\ch{Na}}} {P_{\ch{K}}} [\ch{Na+}]_{\text{out}}} {[\ch{K+}]_{\text{in}} + \frac{P_{\ch{Na}}} {P_{\ch{K}}} [\ch{Na+}]_{\text{in}}}}
+\end{align*}
+Plugging in the values, we get:
+\begin{align*}
+-68 = 58 \log{\frac{5 + \frac{P_{\ch{Na}}} {P_{\ch{K}}} 430} {270 + \frac{P_{\ch{Na}}} {P_{\ch{K}}} 12}}
+\end{align*}
+Solving for $\frac{P_{\ch{Na}}} {P_{\ch{K}}}$ we get:
+\begin{align*}
+\frac{P_{\ch{Na}}} {P_{\ch{K}}} \approx 0.03
+\end{align*}
 \end{enumerate}
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -158,26 +164,28 @@ The time-dependent current follows first-order kinetics with the time constant $
 \begin{enumerate}[label=(\alph*)]
 \item
 Draw the membrane current with respect to time after the membrane voltage is stepped from $V_H = -60 \text{mV}$ to $V_c = 0 \text{mV}$ and to $V_c = -80 \text{mV}$. Label the current and time axes with the appropriate units.
-
-
-
+\begin{center}
+\includegraphics[width=0.75\textwidth]{/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-17 at 11.12.13 AM.png}
+\end{center}
 
 
 
 \item
 Repeat (a) after the membrane voltage is stepped from $V_H = +50 \text{mV}$ to $V_c = +100 \text{mV}$.
-
-
-
-
-
-
-
-
-
-
-
-
+\vspace*{1\baselineskip}
+\\
+To solve this, I will use the formula:
+\begin{align*}
+I(t) = I_o + I_{max}\left(1 - e ^ {\frac{-t} {\tau}}\right)
+\end{align*}
+Since $I_o = 0$ and $\tau = 0.1 \text{seconds}$:
+\begin{align*}
+I(t) = I_{max}\left(1 - e ^ {\frac{-t} {0.1}}\right)
+\end{align*}
+Using this formula, I can solve for what percentage of $I_{max}$ the current is at various time steps to get:
+\begin{center}
+\includegraphics[width=0.75\textwidth]{/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 3/Screen Shot 2017-10-17 at 11.12.23 AM.png}
+\end{center}
 \end{enumerate}
 
 
