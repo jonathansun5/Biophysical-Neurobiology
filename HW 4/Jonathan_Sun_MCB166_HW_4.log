@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  31 OCT 2017 08:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  31 OCT 2017 10:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2429,226 +2429,254 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \c__siunitx_mathtt_int=\count323
  [1
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 132--137
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+</Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
+7-10-31 at 9.45.43 AM.png, id=16, 562.1pt x 257.96375pt>
+File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
+t 2017-10-31 at 9.45.43 AM.png Graphic file (type png)
+
+<use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
+ 2017-10-31 at 9.45.43 AM.png>
+Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
+rks/HW 4/Screen Shot 2017-10-31 at 9.45.43 AM.png used on input line 45.
+(pdftex.def)             Requested size: 352.31625pt x 161.68747pt.
+ [2 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
+ 2017-10-31 at 9.45.43 AM.png>] [3]
+</Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
+7-10-31 at 10.44.52 AM.png, id=38, 767.86874pt x 483.8075pt>
+File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
+t 2017-10-31 at 10.44.52 AM.png Graphic file (type png)
+
+<use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
+ 2017-10-31 at 10.44.52 AM.png>
+Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
+rks/HW 4/Screen Shot 2017-10-31 at 10.44.52 AM.png used on input line 126.
+(pdftex.def)             Requested size: 352.31625pt x 221.98572pt.
+ [4 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
+ 2017-10-31 at 10.44.52 AM.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 191--196
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--146
+Underfull \hbox (badness 10000) in paragraph at lines 200--205
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--155
+Underfull \hbox (badness 10000) in paragraph at lines 209--214
 
  []
 
 
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-29 at 5.24.09 PM.png, id=30, 366.36874pt x 174.6525pt>
+7-10-29 at 5.24.09 PM.png, id=47, 366.36874pt x 174.6525pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-29 at 5.24.09 PM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-29 at 5.24.09 PM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-29 at 5.24.09 PM.png used on input line 161.
+rks/HW 4/Screen Shot 2017-10-29 at 5.24.09 PM.png used on input line 220.
 (pdftex.def)             Requested size: 352.31625pt x 167.96297pt.
- [3 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
- 2017-10-29 at 5.24.09 PM.png>] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 203--208
+ [5 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
+ 2017-10-29 at 5.24.09 PM.png>] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 262--267
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 212--217
+Underfull \hbox (badness 10000) in paragraph at lines 271--276
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--226
+Underfull \hbox (badness 10000) in paragraph at lines 280--285
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 230--235
+Underfull \hbox (badness 10000) in paragraph at lines 289--294
 
  []
 
-[5]
+[7]
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-29 at 5.46.54 PM.png, id=56, 617.30624pt x 276.03125pt>
+7-10-29 at 5.46.54 PM.png, id=73, 617.30624pt x 276.03125pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-29 at 5.46.54 PM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-29 at 5.46.54 PM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-29 at 5.46.54 PM.png used on input line 243.
+rks/HW 4/Screen Shot 2017-10-29 at 5.46.54 PM.png used on input line 302.
 (pdftex.def)             Requested size: 352.31625pt x 157.54161pt.
 
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-31 at 4.37.04 AM.png, id=57, 516.93124pt x 494.84875pt>
+7-10-31 at 4.37.04 AM.png, id=74, 516.93124pt x 494.84875pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-31 at 4.37.04 AM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-31 at 4.37.04 AM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-31 at 4.37.04 AM.png used on input line 251.
+rks/HW 4/Screen Shot 2017-10-31 at 4.37.04 AM.png used on input line 310.
 (pdftex.def)             Requested size: 102.07248pt x 97.70702pt.
 
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-31 at 4.37.21 AM.png, id=58, 596.2275pt x 466.74374pt>
+7-10-31 at 4.37.21 AM.png, id=75, 596.2275pt x 466.74374pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-31 at 4.37.21 AM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-31 at 4.37.21 AM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-31 at 4.37.21 AM.png used on input line 262.
+rks/HW 4/Screen Shot 2017-10-31 at 4.37.21 AM.png used on input line 321.
 (pdftex.def)             Requested size: 102.07248pt x 79.9009pt.
- [6 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
+ [8 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-29 at 5.46.54 PM.png> </Users/jonathansun5/Documents/Fall 2017/MCB 166
 /Homeworks/HW 4/Screen Shot 2017-10-31 at 4.37.04 AM.png> </Users/jonathansun5/
 Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 2017-10-31 at 4.37.21 AM
 .png>]
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-31 at 7.23.24 AM.png, id=68, 326.21875pt x 471.7625pt>
+7-10-31 at 7.23.24 AM.png, id=85, 326.21875pt x 471.7625pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-31 at 7.23.24 AM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-31 at 7.23.24 AM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-31 at 7.23.24 AM.png used on input line 289.
+rks/HW 4/Screen Shot 2017-10-31 at 7.23.24 AM.png used on input line 348.
 (pdftex.def)             Requested size: 102.07248pt x 147.61256pt.
 
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-31 at 7.23.39 AM.png, id=69, 405.515pt x 487.8225pt>
+7-10-31 at 7.23.39 AM.png, id=86, 405.515pt x 487.8225pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-31 at 7.23.39 AM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-31 at 7.23.39 AM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-31 at 7.23.39 AM.png used on input line 295.
+rks/HW 4/Screen Shot 2017-10-31 at 7.23.39 AM.png used on input line 354.
 (pdftex.def)             Requested size: 102.07248pt x 122.789pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 299--301
+Underfull \hbox (badness 10000) in paragraph at lines 358--360
 
  []
 
-[7 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 
+[9 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 
 2017-10-31 at 7.23.24 AM.png> </Users/jonathansun5/Documents/Fall 2017/MCB 166/
-Homeworks/HW 4/Screen Shot 2017-10-31 at 7.23.39 AM.png>] [8]
+Homeworks/HW 4/Screen Shot 2017-10-31 at 7.23.39 AM.png>] [10]
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-30 at 3.38.00 AM.png, id=83, 344.28625pt x 173.64874pt>
+7-10-30 at 3.38.00 AM.png, id=99, 344.28625pt x 173.64874pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-30 at 3.38.00 AM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-30 at 3.38.00 AM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-30 at 3.38.00 AM.png used on input line 328.
+rks/HW 4/Screen Shot 2017-10-30 at 3.38.00 AM.png used on input line 387.
 (pdftex.def)             Requested size: 352.31625pt x 177.69965pt.
 
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-30 at 9.18.49 PM.png, id=84, 796.9775pt x 565.11125pt>
+7-10-30 at 9.18.49 PM.png, id=100, 796.9775pt x 565.11125pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-30 at 9.18.49 PM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-30 at 9.18.49 PM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-30 at 9.18.49 PM.png used on input line 338.
+rks/HW 4/Screen Shot 2017-10-30 at 9.18.49 PM.png used on input line 397.
 (pdftex.def)             Requested size: 234.8775pt x 166.54253pt.
 
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-30 at 9.19.05 PM.png, id=85, 798.985pt x 553.06625pt>
+7-10-30 at 9.19.05 PM.png, id=101, 798.985pt x 553.06625pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-30 at 9.19.05 PM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-30 at 9.19.05 PM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-30 at 9.19.05 PM.png used on input line 349.
+rks/HW 4/Screen Shot 2017-10-30 at 9.19.05 PM.png used on input line 408.
 (pdftex.def)             Requested size: 234.8775pt x 162.5877pt.
- [9 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
- 2017-10-30 at 3.38.00 AM.png> </Users/jonathansun5/Documents/Fall 2017/MCB 166
-/Homeworks/HW 4/Screen Shot 2017-10-30 at 9.18.49 PM.png>]
+ [11 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
+t 2017-10-30 at 3.38.00 AM.png> </Users/jonathansun5/Documents/Fall 2017/MCB 16
+6/Homeworks/HW 4/Screen Shot 2017-10-30 at 9.18.49 PM.png>]
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-30 at 9.19.31 PM.png, id=95, 792.9625pt x 538.01pt>
+7-10-30 at 9.19.31 PM.png, id=111, 792.9625pt x 538.01pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-30 at 9.19.31 PM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-30 at 9.19.31 PM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-30 at 9.19.31 PM.png used on input line 360.
+rks/HW 4/Screen Shot 2017-10-30 at 9.19.31 PM.png used on input line 419.
 (pdftex.def)             Requested size: 234.8775pt x 159.3601pt.
 
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-30 at 9.19.43 PM.png, id=96, 796.9775pt x 520.94624pt>
+7-10-30 at 9.19.43 PM.png, id=112, 796.9775pt x 520.94624pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-30 at 9.19.43 PM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-30 at 9.19.43 PM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-30 at 9.19.43 PM.png used on input line 371.
+rks/HW 4/Screen Shot 2017-10-30 at 9.19.43 PM.png used on input line 430.
 (pdftex.def)             Requested size: 234.8775pt x 153.52678pt.
- [10 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
+ [12 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-30 at 9.19.05 PM.png> </Users/jonathansun5/Documents/Fall 2017/MCB 16
 6/Homeworks/HW 4/Screen Shot 2017-10-30 at 9.19.31 PM.png> </Users/jonathansun5
 /Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 2017-10-30 at 9.19.43 P
 M.png>]
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-30 at 9.20.00 PM.png, id=107, 778.91pt x 531.9875pt>
+7-10-30 at 9.20.00 PM.png, id=123, 778.91pt x 531.9875pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-30 at 9.20.00 PM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-30 at 9.20.00 PM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-30 at 9.20.00 PM.png used on input line 382.
+rks/HW 4/Screen Shot 2017-10-30 at 9.20.00 PM.png used on input line 441.
 (pdftex.def)             Requested size: 234.8775pt x 160.41734pt.
- [11 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
+ [13 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-30 at 9.20.00 PM.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 386.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 386.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 445.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 445.
 
 (./Jonathan_Sun_MCB166_HW_4.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 386.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 386.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 445.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 445.
 Package rerunfilecheck Info: File `Jonathan_Sun_MCB166_HW_4.out' has not change
 d.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 386.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 445.
  ) 
 Here is how much of TeX's memory you used:
- 32201 strings out of 492995
- 637832 string characters out of 6132704
- 697449 words of memory out of 5000000
- 35257 multiletter control sequences out of 15000+600000
+ 32215 strings out of 492995
+ 638802 string characters out of 6132704
+ 698662 words of memory out of 5000000
+ 35269 multiletter control sequences out of 15000+600000
  20129 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,13n,72p,11655b,1136s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
-l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local
-/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
-texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
-xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Jonathan_Sun_MCB166_HW_4.pdf (11 pages, 2407234 bytes).
+ 62i,13n,72p,11868b,1136s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></
+usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
+r/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
+local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
+cal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loca
+l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Jonathan_Sun_MCB166_HW_4.pdf (13 pages, 2936343 bytes).
 PDF statistics:
- 158 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 187 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
