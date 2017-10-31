@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  30 OCT 2017 03:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  31 OCT 2017 07:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2222,19 +2222,68 @@ Package: translator 2010/06/12 ver 1.10
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator-lang
 uage-mappings.tex)))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count302
+\mult@box=\box74
+\multicol@leftmargin=\dimen341
+\c@unbalance=\count303
+\c@collectmore=\count304
+\doublecol@number=\count305
+\multicoltolerance=\count306
+\multicolpretolerance=\count307
+\full@width=\dimen342
+\page@free=\dimen343
+\premulticols=\dimen344
+\postmulticols=\dimen345
+\multicolsep=\skip73
+\multicolbaselineskip=\skip74
+\partial@page=\box75
+\last@line=\box76
+\maxbalancingoverflow=\dimen346
+\mult@rightbox=\box77
+\mult@grightbox=\box78
+\mult@gfirstbox=\box79
+\mult@firstbox=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\c@columnbadness=\count308
+\c@finalcolumnbadness=\count309
+\last@try=\dimen347
+\multicolovershoot=\dimen348
+\multicolundershoot=\dimen349
+\mult@nat@firstbox=\box98
+\colbreak@box=\box99
+\mc@col@check@num=\count310
+)
 (/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count302
-\Gm@cntv=\count303
-\c@Gm@tempcnt=\count304
-\Gm@bindingoffset=\dimen341
-\Gm@wd@mp=\dimen342
-\Gm@odd@mp=\dimen343
-\Gm@even@mp=\dimen344
-\Gm@layoutwidth=\dimen345
-\Gm@layoutheight=\dimen346
-\Gm@layouthoffset=\dimen347
-\Gm@layoutvoffset=\dimen348
+\Gm@cnth=\count311
+\Gm@cntv=\count312
+\c@Gm@tempcnt=\count313
+\Gm@bindingoffset=\dimen350
+\Gm@wd@mp=\dimen351
+\Gm@odd@mp=\dimen352
+\Gm@even@mp=\dimen353
+\Gm@layoutwidth=\dimen354
+\Gm@layoutheight=\dimen355
+\Gm@layouthoffset=\dimen356
+\Gm@layoutvoffset=\dimen357
 \Gm@dimlist=\toks43
 )
 (./Jonathan_Sun_MCB166_HW_4.aux)
@@ -2264,16 +2313,16 @@ LaTeX Font Info:    ... okay on input line 33.
 
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count305
-\scratchdimen=\dimen349
-\scratchbox=\box74
-\nofMPsegments=\count306
-\nofMParguments=\count307
+\scratchcounter=\count314
+\scratchdimen=\dimen358
+\scratchbox=\box100
+\nofMPsegments=\count315
+\nofMParguments=\count316
 \everyMPshowfont=\toks44
-\MPscratchCnt=\count308
-\MPscratchDim=\dimen350
-\MPnumerator=\count309
-\makeMPintoPDFobject=\count310
+\MPscratchCnt=\count317
+\MPscratchDim=\dimen359
+\MPnumerator=\count318
+\makeMPintoPDFobject=\count319
 \everyMPtoPDFconversion=\toks45
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -2292,7 +2341,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box75
+\AtBeginShipoutBox=\box101
 Package hyperref Info: Link coloring OFF on input line 33.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -2301,7 +2350,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count311
+\c@section@level=\count320
 )
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
@@ -2313,7 +2362,7 @@ LaTeX Info: Redefining \nameref on input line 33.
 
 
 ABD: EveryShipout initializing macros
-\c@lstlisting=\count312
+\c@lstlisting=\count321
 \symgns@font=\mathgroup9
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
 (Font)                  TS1/cmr/m/n --> TS1/cmr/bx/n on input line 33.
@@ -2367,7 +2416,7 @@ File: siunitx-abbreviations.cfg 2017/05/19 v2.7g siunitx: Abbreviated units
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c__siunitx_mathsf_int=\count313
+\c__siunitx_mathsf_int=\count322
 LaTeX Font Info:    Try loading font information for U+msa on input line 33.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -2377,12 +2426,24 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 33.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-\c__siunitx_mathtt_int=\count314
+\c__siunitx_mathtt_int=\count323
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Missing character: There is no Ð in font cmr10!
-Missing character: There is no ¡ in font cmr10!
+Underfull \hbox (badness 10000) in paragraph at lines 81--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--104
+
+ []
+
 
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
 7-10-29 at 5.24.09 PM.png, id=26, 366.36874pt x 174.6525pt>
@@ -2392,66 +2453,60 @@ t 2017-10-29 at 5.24.09 PM.png Graphic file (type png)
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-29 at 5.24.09 PM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-29 at 5.24.09 PM.png used on input line 104.
+rks/HW 4/Screen Shot 2017-10-29 at 5.24.09 PM.png used on input line 110.
 (pdftex.def)             Requested size: 352.31625pt x 167.96297pt.
  [3 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-29 at 5.24.09 PM.png>] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 152--157
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--184
+
+ []
+
+[5]
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-29 at 5.46.54 PM.png, id=50, 617.30624pt x 276.03125pt>
+7-10-29 at 5.46.54 PM.png, id=55, 617.30624pt x 276.03125pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
 t 2017-10-29 at 5.46.54 PM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
  2017-10-29 at 5.46.54 PM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-29 at 5.46.54 PM.png used on input line 145.
+rks/HW 4/Screen Shot 2017-10-29 at 5.46.54 PM.png used on input line 192.
 (pdftex.def)             Requested size: 352.31625pt x 157.54161pt.
- [5 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
- 2017-10-29 at 5.46.54 PM.png>]
+
 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
-7-10-30 at 3.38.00 AM.png, id=62, 344.28625pt x 173.64874pt>
+7-10-31 at 4.37.04 AM.png, id=56, 516.93124pt x 494.84875pt>
 File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
-t 2017-10-30 at 3.38.00 AM.png Graphic file (type png)
+t 2017-10-31 at 4.37.04 AM.png Graphic file (type png)
 
 <use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
- 2017-10-30 at 3.38.00 AM.png>
+ 2017-10-31 at 4.37.04 AM.png>
 Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
-rks/HW 4/Screen Shot 2017-10-30 at 3.38.00 AM.png used on input line 190.
-(pdftex.def)             Requested size: 352.31625pt x 177.69965pt.
- [6 </Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
- 2017-10-30 at 3.38.00 AM.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 231.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 231.
+rks/HW 4/Screen Shot 2017-10-31 at 4.37.04 AM.png used on input line 200.
+(pdftex.def)             Requested size: 102.07248pt x 97.70702pt.
 
-(./Jonathan_Sun_MCB166_HW_4.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 231.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 231.
-Package rerunfilecheck Info: File `Jonathan_Sun_MCB166_HW_4.out' has not change
-d.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 231.
- ) 
-Here is how much of TeX's memory you used:
- 32012 strings out of 492995
- 631575 string characters out of 6132704
- 685877 words of memory out of 5000000
- 35081 multiletter control sequences out of 15000+600000
- 17761 words of font info for 65 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 62i,12n,72p,10701b,898s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/l
-ocal/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
-l/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local
-/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
-texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Jonathan_Sun_MCB166_HW_4.pdf (6 pages, 347846 bytes).
-PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 87 compressed objects within 1 object stream
- 33 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+</Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot 201
+7-10-31 at 4.37.21 AM.png, id=57, 596.2275pt x 466.74374pt>
+File: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Sho
+t 2017-10-31 at 4.37.21 AM.png Graphic file (type png)
 
+<use /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 4/Screen Shot
+ 2017-10-31 at 4.37.21 AM.png>
+Package pdftex.def Info: /Users/jonathansun5/Documents/Fall 2017/MCB 166/Homewo
+rks/HW 4/Screen Shot 2017-10-31 at 4.37.21 AM.png used on input line 211.
+(pdftex.def)             Requested size: 102.07248pt x 79.9009pt.
+ [6 </Users/jon
