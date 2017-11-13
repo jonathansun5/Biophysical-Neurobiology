@@ -1,0 +1,197 @@
+% Search for all the places that say "PUT SOMETHING HERE".
+
+\documentclass[11pt]{article}
+\usepackage{amsmath,textcomp,amssymb,graphicx,enumerate,hyperref,enumitem,mathtools,tikz-qtree,listings,chemformula,bm,graphicx,grffile,gensymb,physics,amssymb,datetime,siunitx,multicol,pgfplots}
+\graphicspath{{/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 5/Screen Shot 2017-11-12 at 11.34.36 PM.png}}
+\pgfplotsset{compat=1.14}
+\makeatletter
+\newcommand{\leqnos}{\tagsleft@true\let\veqno\@@leqno}
+\newcommand{\reqnos}{\tagsleft@false\let\veqno\@@eqno}
+\reqnos
+\makeatother
+
+\def\Name{Jonathan Sun}  % Your name
+\def\SID{25020651}  % Your student ID number
+\def\Homework{5} % Number of Homework
+\def\Session{Fall 2017}
+
+
+\title{MCB166 --- \Session --- Problem Set \Homework}
+\author{\Name, SID \SID}
+\markboth{MCB166 --- \Session --- Problem Set \Homework --- \Name}{MCB166 --- \Session --- Problem Set \Homework --- \Name}
+\pagestyle{myheadings}
+\newdate{date}{31}{10}{2017}
+\date{\displaydate{date}}
+
+\def\endproofmark{$\Box$}
+\newenvironment{proof}{\par{\bf Proof:}}{\endproofmark\smallskip}
+
+\usepackage[margin=1in]{geometry}
+
+
+
+\begin{document}
+\maketitle
+
+\newpage
+\begin{enumerate}[label=\arabic*.]
+\item
+The coxal muscle receptor of the crab is innervated by two large nerve fivers (Roberts \& Bush, $1971$). One of them, the T-fiber,, is about $60 \mu \text{m}$ in diameter and $3 \text{mm}$ long. Two microelectrodes were inserted close together into the middle region of the fiber, one to pass stimulating currents and one for recording. Fig. A shows some of the results of one experiment. You may assume that the space constant is long relative to the fiber.
+\begin{enumerate}[label=(\alph*)]
+\item
+Plot the results as a voltage-current graph.
+
+
+\item
+What is the input resistance of the fiber?
+
+
+\item
+Give an estimate of the specific membrane resistance.
+
+
+\item
+If the assumption is untrue and the space constant is comparable to or shorter than the fiber, would the specific resistance of the membrane be higher or lower? Give brief reasons.
+
+
+
+\end{enumerate}
+
+
+
+\newpage
+\item
+A neuromuscular junction is stimulated $25$ times. The amplitudes of the EPPs for each of the $25$ trials are (in mV): $0.3$, $0$, $0.5$, $0.7$, $0$, $1.1$, $1.5$, $0$, $1.1$, $0.9$, $0$, $0$, $1.3$, $1.1$, $0.5$, $0.5$, $0.7$, $0$, $0.7$, $1.1$, $0.5$, $0.5$, $0$, $0.9$, $1.3$.
+\begin{enumerate}[label=(\alph*)]
+\item
+Plot an amplitude histogram of the responses using a bin width of $0.2 \text{mV}$.
+\\
+\begin{tikzpicture}
+\begin{axis}[
+	xticklabels={\text{(0, 0.1]}, \text{(0.1, 0.3]}, \text{(0.3, 0.5]}, \text{(0.5, 0.7]}, \text{(0.7, 0.9]}, \text{(0.9, 1.1]}, \text{(1.1, 1.3]}, \text{(1.3, 1.5]}, \text{(1.5, 1.7]}},
+    xtick=data,
+	ybar interval,
+    ymin=0, ymax=8,
+    xmin=0, xmax=1.6,
+    minor y tick num=1,
+    yminorgrids=false,
+    grid=both,
+    tick align=outside,
+    width=14cm,
+    ]
+	\addplot+[ybar interval, mark=none] plot coordinates {
+		(0.0, 7)
+		(0.2, 1)
+		(0.4, 5)
+		(0.6, 3)
+		(0.8, 2)
+		(1.0, 4)
+		(1.2, 2)
+		(1.4, 1)
+		(1.6, 0)
+	};
+\end{axis}
+\end{tikzpicture}
+
+
+
+\item
+In other experiments you determined that the mean amplitude of the mEPP was $0.5 \text{mV}$. Calculate $m$ by at least two methods, assuming Poisson statistics for the release process.
+\vspace*{1\baselineskip}
+\\
+Using the Direct Method:
+\begin{align*}
+m &= \frac{\bar{V}} {\bar{q}} \\
+&= \frac{\frac{0.3 + 0 + 0.5 + 0.7 + 0 + 1.1 + 1.5 + 0 + 1.1 + 0.9 + 0 + 0 + 1.3 + 1.1 + 0.5 + 0.5 + 0.7 + 0 + 0.7 + 1.1 + 0.5 + 0.5 + 0 + 0.9 + 1.3} {25}} {0.5} \\
+&= 1.216
+\end{align*}
+Using the Failure Method:
+\begin{align*}
+m &= \ln{\frac{N} {N_0}} \\
+&= \ln{\frac{25} {7}} \\
+&\approx 1.273
+\end{align*}
+
+
+
+\item
+Given your value for $m$, how many times would you predict that $3$ quanta would be released in an experiment in which the nerve was stimulated $200$ times?
+\vspace*{1\baselineskip}
+\\
+From the Direct Method and Failure Method above, I got $m = 1.216$ and $m \approx 1.273$. So, I will use the average between the two to get $m = 1.2445$ and use this in my calculation below:
+\begin{align*}
+N_3 &= \frac{m^3 e^{-m}} {6} \times N \\
+&= \frac{(1.2445)^3 e^{-1.2445}} {6} \times 200 \\
+&\approx 18.509
+\end{align*}
+Since $N_3 \approx 18.509$, I would predict $18$ times.
+\end{enumerate}
+
+
+
+\newpage
+\item
+Reproduced below is part of figure $12.16$. It depicts different aspects of synaptic transmission as studied at the squid giant synapse. Label and describe all parts of the figure.
+\begin{center}
+\includegraphics[width=0.75\textwidth]{/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 5/Screen Shot 2017-11-12 at 11.34.36 PM.png}
+\end{center}
+
+
+
+
+
+
+
+\newpage
+\item
+We are going to compare two models for \ch{Na} and \ch{K} currents in parallel. In the first model (A) the conductors are \underline{constant-field rectifiers}. In the second model (B), they are linear conductors with Nernst-potential barriers.
+\begin{center}
+\includegraphics[width=0.75\textwidth]{/Users/jonathansun5/Documents/Fall 2017/MCB 166/Homeworks/HW 5/Screen Shot 2017-11-12 at 11.40.17 PM.png}
+\end{center}
+\begin{enumerate}[label=(\alph*)]
+\item
+For each model, write the expression for the resting potential, i.e. the potential at which $I_{\ch{Na}} + I_{\ch{K}} = 0$.
+
+
+
+
+
+
+
+
+\item
+For model (A), show that as $V \rightarrow \infty$ or $V \rightarrow -\infty$ (i.e. become very large), $I(V)$ becomes linear but with different slopes. The ratio these slopes is called the rectification ratio. Write the resting potential for rectification ratio $= 1$.
+
+
+
+
+
+
+
+
+
+
+
+\item
+Show that model (B) can be written as a single element $I = \bar{G}(V - \bar{V})$. Write expressions for $\bar{G}$ and $\bar{V}$.
+
+
+
+
+
+
+
+
+
+
+\item
+Model (B) makes no sense when any relevant ionic concentration goes to zero. This is because one of the Nernst potentials will become infinite. Explain what is wrong with the model for such a condition. Does model (A) have this trouble? If not, why not? Sketch a curve of $I_{\ch{K}}(V)$ when $[K]_0 = 0$, and describe the current.
+
+
+
+
+
+
+\end{enumerate}
+\end{enumerate}
+\end{document}
